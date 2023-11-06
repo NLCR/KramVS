@@ -4,3 +4,6 @@ conf.d/confextract.conf = environment variables for Shibboleth
 
 ID NDK metadata
 idndk/idndk_metadata.xml
+
+IdP for ČDK
+https://github.com/moravianlibrary/cdk-idp-list/
