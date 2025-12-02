@@ -6,4 +6,4 @@ ID NDK metadata
 idndk/idndk_metadata.xml
 
 IdP for ČDK
-https://github.com/moravianlibrary/cdk-idp-list/
+https://github.com/moravianlibrary/cdk-idp-list
